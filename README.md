@@ -42,7 +42,7 @@ Information is presented in a simpler format
 User can choose an appropriate support route
         ↓
 Legal aid / lawyer / application tracking
-
+```
 Key Features
 1. Legal Problem Classification
 Users can describe their situation in natural language.
@@ -323,10 +323,3 @@ License
 This project is intended for educational and portfolio purposes.
 Add an appropriate open-source license before distributing the project for reuse.
 
-### One important thing
-
-I intentionally **didn't put fake badges, fake statistics, fake accuracy numbers, or claims like "AI-powered legal advice."** Those make a student README look polished for five minutes and suspicious for five seconds.
-
-This version tells a recruiter exactly what the project is, **what you built, how the RAG pipeline works, the security model, and what remains unfinished**.
-
-Next, we should put this into your actual `README.md`, then commit it to GitHub.
